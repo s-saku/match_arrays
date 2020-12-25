@@ -10,8 +10,6 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/s-saku/match_arrays"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
-
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/s-saku/match_arrays"
   spec.metadata["changelog_uri"] = "https://github.com/s-saku/match_arrays/blob/main/README.md"
